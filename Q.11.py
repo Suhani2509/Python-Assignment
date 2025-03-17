@@ -13,5 +13,3 @@ elif(option==3):
     num1 = int(input("Enter First Number : "))
     num2  = int(input("Enter Second Number : "))
     print(f"Multiplication : {num1}*{num2}=",num1*num2)
-else:
-    print("Invalid!!Please enter valid option")
